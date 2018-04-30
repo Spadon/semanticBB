@@ -1,0 +1,32 @@
+{
+  "name": "semanticbb",
+  "version": "0.0.1",
+  "description": "A semantic bulletin board",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mterdjimi/semanticBB.git"
+  },
+  "keywords": [
+    "semantic",
+    "rdf",
+    "board"
+  ],
+  "author": "Mehdi Terdjimi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mterdjimi/semanticBB/issues"
+  },
+  "homepage": "https://github.com/mterdjimi/semanticBB#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0"
+  },
+  "dependencies": {
+    "hylar": "^1.8.4",
+    "rdflib": "^0.16.7",
+    "uuid": "^3.2.1"
+  }
+}
